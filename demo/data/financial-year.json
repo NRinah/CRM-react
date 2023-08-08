@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "2021 FY",
+            "status": "CLOSED",
+            "startDate": "1 Jan, 2021",
+            "endDate": "31 Dec, 2021",
+            "createdOn": "13 Apr, 2022"
+        },
+        {
+            "id": 2,
+            "name": "2022 FY",
+            "status": "INACTIVE",
+            "startDate": "1 Jan, 2022",
+            "endDate": "31 Dec, 2022",
+            "createdOn": "13 Apr, 2022"
+        },
+        {
+            "id": 3,
+            "name": "2023 FY",
+            "status": "ACTIVE",
+            "startDate": "1 Jan, 2023",
+            "endDate": "31 Dec, 2023",
+            "createdOn": "13 Apr, 2022"
+        }
+    ]
+}
